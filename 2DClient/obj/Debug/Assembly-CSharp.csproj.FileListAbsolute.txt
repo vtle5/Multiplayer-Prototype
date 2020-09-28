@@ -1,0 +1,2 @@
+C:\Users\Vincent\Desktop\unity\SpellBurstClient\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\unity\SpellBurstClient\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
