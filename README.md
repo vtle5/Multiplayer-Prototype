@@ -12,5 +12,7 @@ This is a prototype for a multiplayer game. The game uses unity as an engine for
 * Game as a whole may have connection issues.
   * Players do not de-sync when this happens.
 
+## Port
+The server must have port 7020 open to allow external connections.
 ## Credits
 Thanks to Tom Weiland for providing a tutorial for a 3D multiplayer framework!
